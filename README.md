@@ -1,33 +1,47 @@
-# ToDo App
+# ToDo Application
 
-A simple ToDo application to manage your daily tasks.
+Bienvenue dans l'application ToDo !
 
-## Features
+## Fonctionnalités
 
-- Add, edit, and delete tasks
-- Mark tasks as complete
-- Filter tasks by status
+- **Ajouter des tâches** : Créez de nouvelles tâches à effectuer.
+- **Modifier des tâches** : Mettez à jour le titre ou la description d'une tâche existante.
+- **Supprimer des tâches** : Retirez les tâches dont vous n'avez plus besoin.
+- **Marquer comme terminée** : Indiquez qu'une tâche est accomplie.
+- **Filtrer par statut** : Affichez uniquement les tâches terminées, en cours ou toutes les tâches.
+- **Interface intuitive** : Profitez d'une interface simple et facile à utiliser.
+- **Persistance des données** : Les tâches sont sauvegardées localement pour ne rien perdre lors du rechargement de la page.
 
-## Getting Started
+## Installation
 
-1. Clone the repository:
+1. **Cloner le dépôt :**
   ```bash
   git clone https://github.com/dimitrimabom/todo.git
   cd todo
   ```
-2. Install dependencies:
+2. **Installer les dépendances :**
   ```bash
   npm install
   ```
-3. Start the application:
+
+## Utilisation
+
+1. **Démarrer l'application :**
   ```bash
   npm start
   ```
+2. **Accéder à l'application :**  
+  Ouvrez votre navigateur à l'adresse [http://localhost:3000](http://localhost:3000).
 
-## Contributing
+## Contribution
 
-Contributions are welcome! Please open an issue or submit a pull request.
+Les contributions sont les bienvenues !  
+Pour contribuer :
+- Forkez le dépôt et créez une branche pour votre fonctionnalité ou correction.
+- Soumettez une pull request avec une description claire de vos modifications.
+- N'hésitez pas à ouvrir une issue pour signaler un bug ou proposer une amélioration.
 
-## License
+## Licence
 
-This project is licensed under the MIT License.
+Ce projet est sous licence MIT.  
+Voir le fichier [LICENSE](LICENSE) pour plus de détails.
